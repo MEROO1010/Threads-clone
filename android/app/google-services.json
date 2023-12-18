@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "153824859247",
+    "project_id": "threads-clone-3431c",
+    "storage_bucket": "threads-clone-3431c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153824859247:android:38c9d353ebb72c349ce99a",
+        "android_client_info": {
+          "package_name": "com.example.thread_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdaJ93LudL7hqS5D2gjZwZJ4Xw0YQUoWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153824859247:android:f1a78e59d6c689949ce99a",
+        "android_client_info": {
+          "package_name": "com.example.threads_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdaJ93LudL7hqS5D2gjZwZJ4Xw0YQUoWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
